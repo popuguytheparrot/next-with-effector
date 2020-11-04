@@ -1,0 +1,2 @@
+# Effector with NextJS example
+
